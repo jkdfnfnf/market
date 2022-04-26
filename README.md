@@ -1,23 +1,5 @@
-# ghhfg
-## ojfndso
-### sdmfsg
+# class_market
+## market
+### mar
 
----
-> sondgo
-> sdigp
-> > osdgo
-> > sdgp
->sldfl
-
-```c++
-int main () {
-    char a;
-    cin >> a;
-}
-```
-`int main(){}`
-
-*asd*
-_asd_
-
-**asd** __asd__
+**Ya ebal vas v rot**
