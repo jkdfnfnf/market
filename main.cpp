@@ -10,5 +10,7 @@ int main() {
     Magaz.profit_count();
     Magaz.purchase_of_goods(13, 20, 30);
     Magaz.profit_count();
+    Magaz.purchase_of_goods(13, 20, 30);
+    Magaz.profit_count();
     return 0;
 }
