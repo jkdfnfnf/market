@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/market.h
+
+C:/Users/test/CLionProjects/class_market/main.cpp
+market.h
+C:/Users/test/CLionProjects/class_market/market.h
+
